@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Wallpaper</string>
+    <string name="search">Search</string>
+    <string name="photo_title">Photo Title</string>
+    <string name="close">Close</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="set_as_home_screen_wallpaper">Set as Home Screen Wallpaper</string>
+    <string name="set_both">Set both</string>
+    <string name="set_as_lock_screen_wallpaper">Set as Lock Screen Wallpaper</string>
+</resources>
